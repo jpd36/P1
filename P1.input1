@@ -1,0 +1,6 @@
+\ This is a comment , shouldn't be recognized .
+
+Void Function {
+    Let X = 123 ;
+    Let Y = 4567890 ;
+}
